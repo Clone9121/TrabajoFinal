@@ -1,0 +1,50 @@
+.row-motos{
+    padding-top: 15px;
+}
+.container-img{
+    background-image: url("../img/honda power house tienda para background img.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+
+}
+.navbar-brand{
+    text
+}
+
+.btn {
+    cursor: pointer;
+    background-color: DodgerBlue;
+  }
+  .btn-div {
+    display: inline;
+  }
+  .btn-icon {
+    border-style: solid;
+    border-color:darkslategray;
+    background-color:darkslategray;
+    color: greenyellow;
+    padding: 5px;
+    font-size: 14px;
+  }
+  .btn-txt {
+    border-style: solid;
+    border-color:darkslategray;
+    color:white;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 5px;
+    font-size: 14px;
+    font-weight:bold; 
+  }
+  .btn-icon-cart{
+    border-style: solid;
+    border-color:darkslategray;
+    background-color: darkslategray;
+    color:red;
+    padding: 5px;
+    font-size: 14px;
+  }
+  .boton{
+      padding-left: 5px;
+  }
